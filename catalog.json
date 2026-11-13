@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "id": "snow-pine",
+      "name": "雪岭听松",
+      "description": "积雪覆松，群山含黛，清溪蜿蜒。米白雪色与淡墨山影相映，清雅而静谧。",
+      "version": "1.2.1",
+      "file": "downloads/snow-pine-1.2.1.zip",
+      "size": 3109951,
+      "sha256": "54ab9aab06037f03af04fdfe85f5e07f0aae9712ebc4344f3841e67b96728f11",
+      "previews": {
+        "light": "assets/snow-pine-light.webp",
+        "dark": "assets/snow-pine-dark.webp"
+      }
+    },
+    {
+      "id": "pine-tide",
+      "name": "松风入海",
+      "description": "苍松临岸，碧海涌潮，远帆隐现。暖金天光与青蓝海浪相映，悠远而宁静。",
+      "version": "1.2.2",
+      "file": "downloads/pine-tide-1.2.2.zip",
+      "size": 9172662,
+      "sha256": "6384044f70f2b559f4c8e581cc65c760120754f754fb06f74bc903e7dd8d1419",
+      "previews": {
+        "light": "assets/pine-tide-light.webp",
+        "dark": "assets/pine-tide-dark.webp"
+      }
+    }
+  ]
+}
