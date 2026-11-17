@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | 雪岭听松 | 1.2.1 | [snow-pine-1.2.1.zip](downloads/snow-pine-1.2.1.zip) |
 | 松风入海 | 1.2.2 | [pine-tide-1.2.2.zip](downloads/pine-tide-1.2.2.zip) |
+| Persona 3 · Yuki / Wake | 1.5.4 | [persona3-yuki-1.5.4.zip](downloads/persona3-yuki-1.5.4.zip) |
 
 ## 使用
 
@@ -14,11 +15,11 @@
 ## 文件
 
 - `downloads/`：原始 ZIP，按版本保留，不重新打包或改写。
-- `assets/`：现有皮肤截图的网页压缩版本，包含浅色、深色预览。
+- `assets/`：现有皮肤截图的网页压缩版本，以及明确标注的背景素材预览。`catalog.json` 的 `previews.light` / `previews.dark` 表示界面截图，`previews.background` 只表示背景素材。
 - `catalog.json`：皮肤名称、描述、版本、字节数、下载路径和 SHA-256。
 - `SHA256SUMS.txt`：ZIP 文件校验值。
 
-两个 ZIP 已通过 OpenBitFun 生产解析器和作者检查。网页预览使用已有代表性截图，不代表完整界面或所有平台的视觉验收。
+雪岭听松与松风入海 ZIP 已通过 OpenBitFun 生产解析器和作者检查。Persona 3 · Yuki / Wake 已在 macOS Release 中导入并检查实际播放；其预览仅展示背景静帧，动画规格、使用说明与素材来源见 [皮肤说明](persona3-yuki.md)。网页预览不代表完整界面或所有平台的视觉验收。
 
 ## 本地预览与发布
 
