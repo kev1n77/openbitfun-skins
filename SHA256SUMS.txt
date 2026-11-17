@@ -1,2 +1,3 @@
 54ab9aab06037f03af04fdfe85f5e07f0aae9712ebc4344f3841e67b96728f11  downloads/snow-pine-1.2.1.zip
 6384044f70f2b559f4c8e581cc65c760120754f754fb06f74bc903e7dd8d1419  downloads/pine-tide-1.2.2.zip
+ac92fc7267112672aab93345a05c02158fb01c5cf3e9dcaf5d403987deb68c03  downloads/persona3-yuki-1.5.4.zip

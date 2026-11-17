@@ -25,6 +25,18 @@
         "light": "assets/pine-tide-light.webp",
         "dark": "assets/pine-tide-dark.webp"
       }
+    },
+    {
+      "id": "persona3-yuki",
+      "name": "Persona 3 · Yuki / Wake",
+      "description": "女神异闻录 3 风格的深蓝与青色界面，搭配结城理「坠入清醒」动态背景。5 秒平滑往返循环，保留完整人物构图。",
+      "version": "1.5.4",
+      "file": "downloads/persona3-yuki-1.5.4.zip",
+      "size": 16443959,
+      "sha256": "ac92fc7267112672aab93345a05c02158fb01c5cf3e9dcaf5d403987deb68c03",
+      "previews": {
+        "background": "assets/persona3-yuki-background.webp"
+      }
     }
   ]
 }
